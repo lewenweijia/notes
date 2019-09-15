@@ -1,4 +1,4 @@
-# [ 每日·壹题 ] 题解
+# Manybe nothing at all
 
 链接: https://muyiy.vip/question/
 
