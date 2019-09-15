@@ -1,4 +1,5 @@
-# Manybe nothing at all
+# Place for taking notes
+notes: https://github.com/lewenweijia/notes/issues
 
 链接: https://muyiy.vip/question/
 
